@@ -1,0 +1,165 @@
+osha,range,address,city,website,type,raw,lat,lng
+,Acme Adventures,3110 Standard Road,Deming,,,"48.754984,-122.194145",48.754984,-122.194145
+,Almira Gun Club,2701 Hwy. 21 East,Almira,https://www.facebook.com/AlmiraGunClub?ref=stream,,"47.7109823,-118.9408459",47.7109823,-118.9408459
+,Bainbridge Island Sportsmens Club,8203 Sportsman Club Rd NE,Bainbridge Island,http://www.bainbridgesportsmensclub.org/,Outdoor,"47.638634,-122.534544",47.638634,-122.534544
+,Bellingham Skeet and Trap Club,940 Larson Road,Bellingham,,,"48.8261163,-122.5320663",48.8261163,-122.5320663
+,Black Diamond Gun Club,34816 Enumclaw – Black Diamond Highway,Enumclaw,http://www.blackdiamondgunclub.org/,Outdoor,"47.288239, -121.991415",47.288239,-121.991415
+,Bremerton Trap and Skeet club,4956 State Hwy 3 SW,Port Orchard,http://www.bremertontrapandskeet.com/,,"47.5137691,-122.7378756",47.5137691,-122.7378756
+bulls,Bulls Eye Indoor Range,414 Puyallup Ave.,Tacoma,http://www.bullseyeshooter.com/,Indoor,"47.240374,-122.4285606",47.240374,-122.4285606
+,Camas-Washougal Wildlife League,"811 S.E. Leadbottom Road,",Camas,,Both,"45.58706309999999,-122.3995363",45.58706309999999,-122.3995363
+,Capitol City Rifle and Pistol Club,14318 Littlerock Road SW,Littlerock,http://www.ccrpclub.org/,Both,"46.8788657,-123.0202889",46.8788657,-123.0202889
+,Cascade Field & Stream Club,2410 Hayward Road,Thorp,https://www.facebook.com/pages/Cascade-Field-Stream-Club/226690524117602,Outdoor,"47.1138217,-120.7143519",47.1138217,-120.7143519
+,Cascade Shooting Facilities (indoor range),27036 SE Ravensdale Way,Ravensdale,http://cascadeshootingfacilities.org/,Indoor,"47.354258,-121.9799822",47.354258,-121.9799822
+,Cascade Shooting Facilities (outdoor range),26520 292nd Ave SE,Ravensdale,http://cascadeshootingfacilities.org/,Outdoor,"47.3652315,-121.9438208",47.3652315,-121.9438208
+,Cashmere Sportsmen's Association,6550 Turkey Shoot Road,Cashmere,,Outdoor,"47.530489,-120.50281",47.530489,-120.50281
+,Central Whidbey Sportsmens Association,351 Safari Rd,Coupeville,http://www.cwsaonline.org/,,"48.2052212,-122.6346183",48.2052212,-122.6346183
+,Centralia Rifle Club,908 Johnson Road,Centralia,http://crcjd.org/,Indoor,"46.7253467,-122.9818225",46.7253467,-122.9818225
+champion,Champion Arms Indoor Shooting,18801 E. Valley Hwy,Kent,http://www.championarms.com,Indoor,"47.4336774,-122.2283295",47.4336774,-122.2283295
+,Clark County Gun Club (The English Pit Shooting Range),820 NE 192 Ave,Vancouver,http://www.englishpit.com/,Outdoor,"45.6281136,-122.4761923",45.6281136,-122.4761923
+,Clark Rifles,25115 NE Rawson Road,Bush Prairie,http://www.clarkrifles.org,Outdoor,"45.727137,-122.411134",45.727137,-122.411134
+,Colton Gun Club,52 Church Rd,Colton,http://www.coltongunclub.com,Outdoor,"46.5700537,-117.1322632",46.5700537,-117.1322632
+,Connell Gun club,PO Box 1121,Connell,,Outdoor,"46.6634733,-118.8611117",46.6634733,-118.8611117
+,Coulee City Sportsmen's Association,10846 Road 36 NE,Coulee City,,Outdoor,"47.614759,-119.259257",47.614759,-119.259257
+,Cowlitz Gun Club,851 S. Military Rd.,Winlock,,,"46.4454218,-122.9335837",46.4454218,-122.9335837
+,Cowlitz Public Shooting Range,1000 Toutle Park,Castle Rock,http://www.cowlitzgameanglers.com/,Outdoor,"46.3287106,-122.9001145",46.3287106,-122.9001145
+,Custer Sportsmens Club,3000 Birch Bay Lynden Road,Custer,http://www.custersportsmensclub.com/,Both,"48.93633699999999,-122.643515",48.93633699999999,-122.643515
+,Darrington Range,SR 530 (3 miles west of Darrington),Darrington,,,"48.2553867,-121.6015142",48.2553867,-121.6015142
+,Davenport Gun & Game Club,"Hospital Ave, P.O. Box 728",Davenport,,Indoor,"47.6540456,-118.149973",47.6540456,-118.149973
+,Deception Pass Gun Club,4778 N Monkey Hill Road,Oak Harbor,,,"48.3619911,-122.6370257",48.3619911,-122.6370257
+,Double Barrel Ranch,13501 S. Harvard Rd.,Spokane,http://www.uplandbirdranch.com/,,"47.53371569999999,-117.1102533",47.53371569999999,-117.1102533
+,Dryden Gun Club,Saunders Road,Dryden,,Outdoor,"47.5565545,-120.5824221",47.5565545,-120.5824221
+,Dusty Gun Club,2152 Danaher Road,Colfax,,,"46.9644765,-117.3524028",46.9644765,-117.3524028
+,Ellensburg Trap and Skeet Club,3102 N. Airport Road,Ellensburg,,,"47.0254384,-120.5397222",47.0254384,-120.5397222
+,Endicott Gun Club,13542 Endicott Road,Endicott,https://www.facebook.com/endicottgunclub/info,Outdoor,"46.9436475,-117.7910408",46.9436475,-117.7910408
+,Ephrata Sportsmen's Association (Boyd Mordhorst Memorial Range),Highway 282 & Airport St.,Ephrata,http://www.ephratasportsmen.com/,,"47.3111797,-119.5236331",47.3111797,-119.5236331
+,Everett Sportsmen Club,38th St. SE Ebey Island,Everett,http://www.everettsportsmenclub.org/,Outdoor,"47.9789848,-122.2020794",47.9789848,-122.2020794
+,Evergreen Sportsmens Club,12736 Marksman Road SW,Olympia,http://www.shootesc.com/,Outdoor,"46.9059393,-123.0576413",46.9059393,-123.0576413
+,Federal Way Indoor Range (Discount Guns),1401 S324th St.,Federal Way,http://www.federalwaydiscountguns.com/,Indoor,"47.3223221,-122.3126222",47.3223221,-122.3126222
+,Fort Colville Gun Club,303 Hwy. 20 E,Colville,http://www.fortcolvillegunclub.com/,Outdoor,"48.5486009,-117.9088689",48.5486009,-117.9088689
+,Fort Discovery (Security Services Northwest),3501 Old Gardiner Rd.,Sequim,http://www.fortdiscoveryusa.com/,Outdoor,"48.04251439999999,-122.878572",48.04251439999999,-122.878572
+,Garfield Gun Club,3015 Elberton Road,Garfield,https://www.facebook.com/pages/Garfield-Gun-Club/522117237800568,Outdoor,"46.983639,-117.2215209",46.983639,-117.2215209
+,Gig Harbor Sportsmens Club,9721 Burnham Drive Nw,Gig Harbor,http://www.sportsmans-club.org,Outdoor,"47.3492109,-122.601017",47.3492109,-122.601017
+,Goldendale Gun Club,Fenton-Gun Club Road,Goldendale,,,"45.8206794,-120.8217312",45.8206794,-120.8217312
+,Goodnights Sporting Clays,PO Box 79,Bickleton,,Outdoor,"45.9979065,-120.3006062",45.9979065,-120.3006062
+,Granite Falls Sportsmen's Club,20310 Gun Club Rd,Granite Falls,http://www.gfsclub.com/,Outdoor,"48.09031,-121.958534",48.09031,-121.958534
+,Grays Harbor Rifle & Pistol Club,1362 East Hoquiam Rd,Hoquiam,https://www.facebook.com/pages/Grays-Harbor-Rifle-Pistol-Club/544479015572926,Indoor,"47.008817,-123.868551",47.008817,-123.868551
+,Greene's Gun Shop,4778 N. Monkey Hill Road,Oak Harbor,http://www.greenesgunshop.com/Departments/Greenes-Gun-Shop.aspx,,"48.3619911,-122.6370257",48.3619911,-122.6370257
+,Harrison Range,101 MacMurray Rd,Tacoma,,,"47.2528768,-122.4442906",47.2528768,-122.4442906
+,Hickson Gun Club,1898 Grips Road SW,Burlington,,,"48.4756621,-122.3254375",48.4756621,-122.3254375
+,Hole in the Wall,7509 W Deschutes Ave,Kennewick,http://www.tricityguns.com,Indoor,"46.212203,-119.2229344",46.212203,-119.2229344
+,Holmes Harbor Rod and Gun Club,3334 E. Brooks Hill Rd,Langley,http://www.hhrodandgun.com/,Outdoor,"48.02939079999999,-122.4347227",48.02939079999999,-122.4347227
+,Horse Heaven Sportsman Society,Dump Road,Prosser,,Outdoor,"46.2053641,-119.7341269",46.2053641,-119.7341269
+,Inland Northwest Action Shooters,9200 South Jons Road,Mica,http://www.inas.us/,,"47.5691753,-117.1640249",47.5691753,-117.1640249
+,Insights Training Center,130 E. Sunset Way,Issaquah,http://www.insightstraining.com/,,"47.5304172,-122.0343661",47.5304172,-122.0343661
+,Interlake Sportsmen's Club,13633 NE 97th,Redmond,http://www.interlakesporting.org,Outdoor,"47.686867,-122.155935",47.686867,-122.155935
+issaquah,Issaquah Sportsmen's Club,12605 SE Evans St.,Issaquah,http://www.issaquahsportsmensclub.com,Outdoor,"47.5254602,-122.0292664",47.5254602,-122.0292664
+,Jefferson County Sportsmens Association,112 Gun Club Road,Port Townsend,http://www.jeffersoncountysportsmen.org,Outdoor,"48.1000192,-122.8208303",48.1000192,-122.8208303
+,Kenmore Shooting Range (Wildlife Committee of Washington),"1031 228th SW, Bothell",Bothell,http://www.kenmorerange.com/,Indoor,"47.7623204,-122.2054035",47.7623204,-122.2054035
+,Kettle Falls Gun Club,"Hwy 25 S, POB 953",Kettle Falls,,,"48.6107354,-118.0558218",48.6107354,-118.0558218
+,Kingston Junior Marksman Club,Hansville Highway,Kingston,,,"47.7987072,-122.4981921",47.7987072,-122.4981921
+,Kitsap Rifle & Revolver Club,4900 Seabeck Hwy. N.W,Bremerton,http://www.gunsafety.org/,Outdoor,"47.6073037,-122.7477124",47.6073037,-122.7477124
+,Kittitas Valley Rifle and Pistol Club,608 NW 15th Street,Ellensburg,http://kvriflepistolclub.org/,Indoor,"47.0066363,-120.5561907",47.0066363,-120.5561907
+,La Crosse Gun Club,Wiedrich Road,La Crosse,,,"46.8290585,-117.8877881",46.8290585,-117.8877881
+,Landt Farms Sporting Clays,11829 North Landt Farms Lane,Nine Mile Falls,,Outdoor,"47.7661779,-117.638749",47.7661779,-117.638749
+,Lind Gun Club,406 N. Airfield Road,Lind,,Indoor,"46.9741934,-118.5900533",46.9741934,-118.5900533
+,Lone Oaks Rifle & Pistol Club,380 Stewart Creek Road,Longview,http://www.loneoakrpc.com/,Outdoor,"46.201428,-123.006183",46.201428,-123.006183
+,Lone Pine Range,25902 W. Hallette Road,Medical Lake,,,"47.595847,-117.767743",47.595847,-117.767743
+,Lynden Shotgun Club,8823 Weidkamp Road,Lynden,,,"48.9617647,-122.5265479",48.9617647,-122.5265479
+,Malden Pine City Gun Club,Pine City Road,Rosalia,http://maldenpinecitygunclub.com/,Outdoor,"47.200347,-117.5285516",47.200347,-117.5285516
+,Mansfield Muzzleloader,16937 Sargent Rd SW,Rochester,,Outdoor,"46.840841,-123.05332",46.840841,-123.05332
+,Marlin Gun Club,12000 Kajevuew Ranch LP N,Odessa,,,"47.428529,-118.731355",47.428529,-118.731355
+,Marysville Rifle Club,1601 Lakewood Drive,Arlington,http://www.marysvillerifleclub.org/,Both,"48.1553894,-122.2540209",48.1553894,-122.2540209
+,Mason County Sportsman's Association,521 West Business Park Road,Shelton,http://www.masoncountysa.com,Indoor,"47.2498876,-123.1521893",47.2498876,-123.1521893
+,McChord Sportsmen's Club,building #573,McChord Afb,,,"47.1145301,-122.4793731",47.1145301,-122.4793731
+,Metaline Falls Gun Club,72 Pend Oreille Mine Road,Metaline Falls,,Outdoor,"48.8788705,-117.3540107",48.8788705,-117.3540107
+,Mid Valley Gun Club,"Highway 241, MP 17",Prosser,,,"46.2067997,-119.7689222",46.2067997,-119.7689222
+,Moses Lake Gun Club,6265 Road 1 NE,Moses Lake,,Outdoor,"47.1019349,-119.2837972",47.1019349,-119.2837972
+,Mount Adams Fish and Game Club,Jewett Creek Park,White Salmon,http://www.mtadamsfishgame.com/,Both,"45.7272207,-121.4737104",45.7272207,-121.4737104
+,Mount Vernon Moose Gun Club,1295 Wilson Road,Burlington,,,"48.4871557,-122.4238902",48.4871557,-122.4238902
+,Mt. Rainier's Shadow Practical Shooters Club,"Puyallup, WA",Puyallup,,Outdoor,"47.1678454,-122.2936193",47.1678454,-122.2936193
+,Newport Gun Club,118 McAvoy Road,Newport,,Outdoor,"48.1812584,-117.0588656",48.1812584,-117.0588656
+,No. 2 Canyon Gun Club,26 South Emerson Street,Wenatchee,,,"47.422748,-120.321005",47.422748,-120.321005
+norpoint,Norpoint Shooting & Tactical (formerly known as Firearms Academy Of Hawaii),8620A 172nd St NE,Arlington,http://www.norpointrange.com,Indoor,"48.1506583,-122.1156754",48.1506583,-122.1156754
+,North Cascades Sportsmens Club,401 Washington Creek Road,Chelan,http://www.chelangunclub.com/index.htm,,"47.9275049,-119.957918",47.9275049,-119.957918
+,North Central Washington Gun Club,2740 Gun Club Road,East Wenatchee,http://www.ncwgunclub.com/main/index.php,Outdoor,"47.4504088,-120.2763999",47.4504088,-120.2763999
+,North Whidbey Sportsmen's Association,886 Gun Club Road,Oak Harbor,http://www.northwhidbeysportsmen.org/,Outdoor,"48.3149627,-122.6610352",48.3149627,-122.6610352
+,Northwest Adventure Center,East Gate Road,Ft. Lewis,,Outdoor,"47.1236595,-122.498049",47.1236595,-122.498049
+,Northwest Sporting Clays (Thief River Falls Trap Club),Hwy 59,Fall City,http://www.trftrapclubandnorthwestsportingclays.org/,Outdoor,"47.5673237,-121.8887269",47.5673237,-121.8887269
+,Odessa Gun Club,"Airport Road, PO Box 673",Odessa,,Outdoor,"47.3332023,-118.6908274",47.3332023,-118.6908274
+,Okanogan Wildlife Council and Gun Club,241 Landfill Road,Okanogan,http://www.okanoganwildlifecouncil.org/shooting-facilities.html,Outdoor,"48.361262,-119.5833869",48.361262,-119.5833869
+,Olympia Police Training Facility,6530 Martin Way,Lacey,,,"47.052286,-122.794663",47.052286,-122.794663
+,Omak Fish and Game Club (Omak Gun Club),26 Old Riverside Highway,Omak,,Both,"48.4306615,-119.4948004",48.4306615,-119.4948004
+,Orcas Island Sportsmen Club,1906 Enchanted Forest Road,Eastsound,http://www.oisc.info/,Outdoor,"48.690928,-122.940549",48.690928,-122.940549
+,Oroville Gun Club,"Country Road 7, MP 18",Oroville,,Outdoor,"48.9390509,-119.4356211",48.9390509,-119.4356211
+,Othello Gun Club,2290 W. Cunningham Road,Othello,,Outdoor,"46.8262093,-119.2189149",46.8262093,-119.2189149
+,Palouse River Shooting Sports,826 East Southview Avenue,Colfax,,Outdoor,"46.8751997,-117.3558525",46.8751997,-117.3558525
+,Pasco Rifle & Pistol Club,515 S. 26th St.,Pasco,http://www.prpcinfo.com/Pasco_Rifle_%26_Pistol_Club/Home.html,Indoor,"46.2281819,-119.124929",46.2281819,-119.124929
+,Paul Bunyan Rifle and Sportsmens Club,17902 Meridian Ave. East,Puyallup,http://pbrsc.org/,Outdoor,"47.0975057,-122.2936683",47.0975057,-122.2936683
+,Pe Ell Sportsman's Club,187 Chandler Rd.,Chahalis,http://www.plsportsmensclub.com/,Outdoor,"46.636607,-123.251992",46.636607,-123.251992
+,Peninsula Long Rifles,Slap Camp Road,Sequim,http://www.peninsulalongrifle.com/,Outdoor,"48.0021171,-123.1755742",48.0021171,-123.1755742
+,Peninsula Rifle & Pistol Club,2604 West 18th St.,Port Angeles,,Indoor,"48.1246747,-123.4970183",48.1246747,-123.4970183
+,Petit Range,Petit Rd & Range Grade Rd,Dayton,,Outdoor,"46.3299369,-117.8965759",46.3299369,-117.8965759
+,Pheasant Valley Preserve,8181 Wiedrich Rd,Lacrosse,http://www.pheasantvalleypreserve.com/Contact-Us.html,Outdoor,"46.9011024,-117.9187639",46.9011024,-117.9187639
+,Plantation Rifle Range,5102 Samish Highway,Bellingham,,Outdoor,"48.6989144,-122.4920393",48.6989144,-122.4920393
+,Pomeroy Rifle Club,38 Gun Club Road,Pomeroy,https://www.facebook.com/pages/Pomeroy-Gun-Club/203900656307840,Outdoor,"46.4736498,-117.5354156",46.4736498,-117.5354156
+,Pomona Gun Club,E. Pomona Road,Selah,https://www.facebook.com/pages/Pomona-Gun-Club/111809215520994,,"46.6771115,-120.4854675",46.6771115,-120.4854675
+,Port Angeles Gun Club,253093 Highway 101,Port Angeles,http://www.shootpagc.com/,Outdoor,"48.1042514,-123.3431888",48.1042514,-123.3431888
+,Poulsbo Sportsmen's Club,16990 Clear Creek Road NW,Poulsbo,http://www.pscnet.net,Outdoor,"47.713999,-122.689054",47.713999,-122.689054
+,Poverty Bay Arms,16103 SE 352nd St,Auburn,,,"47.28585899999999,-122.126064",47.28585899999999,-122.126064
+,Practical Edge Shooting,PO Box 7089,Kennewick,http://www.practicaledgeshooting.com/contact.htm,Outdoor,"46.2112458,-119.1372338",46.2112458,-119.1372338
+,Quincy American Legion Post 183 Gun Club,Road 13 & Central Avenue,Qunicy,http://www.quincywagunclub.com/,Outdoor,"47.7510741,-120.7401386",47.7510741,-120.7401386
+,R & M Game Birds,495 Fisher Hill Road,Lyle,,Outdoor,"45.7561203,-121.2286747",45.7561203,-121.2286747
+,Raders Range,175 Salmi Rd,Winlock,,Outdoor,"46.5369006,-122.9706408",46.5369006,-122.9706408
+renton,Renton Fish & Game Club,17205 SE 144th St,Renton,http://www.rfgc.org,Outdoor,"47.4707143,-122.1101201",47.4707143,-122.1101201
+,Renton Practical Shooters,29821 137th St. E,Buckley,,,"47.1332499,-122.031074",47.1332499,-122.031074
+,Republic Rifle Range (Republic Gun Club),Pendry Road,Republic,,,"48.6351801,-118.7366513",48.6351801,-118.7366513
+,Rimrock Sporting Clays,553 J-Meyer Road,Uniontown,,Outdoor,"46.50627069999999,-117.1358074",46.50627069999999,-117.1358074
+,Ritzville Gun Club,Gun Club Road,Ritzville,,Outdoor,"47.1128683,-118.4072471",47.1128683,-118.4072471
+,Riverside Sportsmans Association,687 Pharr Rd,Riverside,,,"48.5674713,-119.4904408",48.5674713,-119.4904408
+,Rock Creek Gun Club,Highway 278,Rockford,,,"47.438918,-117.0886878",47.438918,-117.0886878
+,Rock Mountain Sporting Clays,16377 Taylor Road,Mt. Vernon,,Outdoor,"48.403137,-122.200868",48.403137,-122.200868
+,Roger Dahl Shooting Range (West Seattle Sportsmen's Club),4470 35th Avenue SW,Seattle,http://www.wssportsmen.com/range,Indoor,"47.56262230000001,-122.3740535",47.56262230000001,-122.3740535
+,Safe T Shoot,515 S 26th Ave,Pasco,,Indoor,"46.2281819,-119.124929",46.2281819,-119.124929
+spaa,Seattle Police Athletic Association,11030 East Marginal Way S,Tukwila,http://www.spaarange.com,Outdoor,"47.50357210000001,-122.2893441",47.50357210000001,-122.2893441
+,Seattle Rifle & Pistol Association,725 135th St. SE,Snohomoish,http://www.seattlerifle.org/,Outdoor,"47.99095,-122.0465365",47.99095,-122.0465365
+,Seattle Skeet & Trap Club,26520 292nd Avenue SE,Ravensdale,http://www.sstclub.com,Outdoor,"47.3652315,-121.9438208",47.3652315,-121.9438208
+sharp,Sharp Shooting Indoor Range,1200 N. Freya Way,Spokane,http://www.sharpshooting.net/,Indoor,"47.669369,-117.35998",47.669369,-117.35998
+,Shelton Middle School Junior Rifle Club,9th & Franklin,Shelton,,Outdoor,"47.21450309999999,-123.1095746",47.21450309999999,-123.1095746
+,Shelton Rifle & Pistol Club,W. 521 Business Park Rd,Shelton,,Indoor,"47.2498876,-123.1521893",47.2498876,-123.1521893
+,Shooting Sports Northwest (Discount Gun Sales),17907 Bothell-Everett Hwy,Bothell,http://shootingsportsnorthwest.com/,Indoor,"47.837504,-122.2141919",47.837504,-122.2141919
+,Skagit Shooting Range (soon to be opened),1304 Bouslog Rd.,Burlington,http://skagitshootingrange.com/Information.php,Indoor,"48.4602434,-122.3452119",48.4602434,-122.3452119
+,Snoqualmie Valley Rifle Club,Snoqualmie Road at Tokul Creek,Fall City,http://www.svrifle.org/,Outdoor,"47.5646764,-121.8579355",47.5646764,-121.8579355
+,Spangle Gun Club,Hwy 195,Spangle,https://www.facebook.com/pages/Spangle-Gun-Club/341137369249416,Outdoor,"47.38042220000001,-117.3850963",47.38042220000001,-117.3850963
+,Spokane Gun Club,E. 19615 Sprague Ave.,Greenacres,http://www.spokanegunclub.org/,Outdoor,"47.658368,-117.1406464",47.658368,-117.1406464
+,Spokane Rifle Club,6411 A. L. White Parkway,Spokane,http://www.spokanerifleclub.org/,Both,"47.7092063,-117.4991436",47.7092063,-117.4991436
+,Spokane Valley Rifle & Pistol,9200 S Jons Road,Mica,http://www.inas.us/,Outdoor,"47.5691753,-117.1640249",47.5691753,-117.1640249
+,St. John Gun Club,Gun Club Road & Highway 23,St. John,,Outdoor,"47.0917508,-117.5750767",47.0917508,-117.5750767
+,Sumner Sportsmen's Association,15711 96th St. E.,Puyallup,http://sumnertrap.org/,Outdoor,"47.16973429999999,-122.2196773",47.16973429999999,-122.2196773
+,Sun Valley Shooting Park (Central Washington Range Conservancy),1452 Sun Targets Road,Moxee,http://sunvalleyshootingpark.blogspot.com/,Outdoor,"46.5003561,-120.2092263",46.5003561,-120.2092263
+,Sunnydell Shooting Grounds,292 Dryke Road,Sequim,http://sunnydellshootinggrounds.com/,Outdoor,"48.0924754,-123.2193158",48.0924754,-123.2193158
+,Tacoma Rifle and Revolver Club,8503 Chambers Creek Road West,University Place,http://www.tacomarifle.org/,Outdoor,"47.2032456,-122.5524162",47.2032456,-122.5524162
+,Tacoma Sportsmen's Club,16409 Canyon Rd. E.,Puyallup,http://www.tacomassportsmensclub.com/,Outdoor,"47.1069589,-122.3574368",47.1069589,-122.3574368
+,The Gun Works,Paine Field Road,Everett,,,"47.89619520000001,-122.2755544",47.89619520000001,-122.2755544
+marksman,The Marksman,11003 Canyon Road E,Puyallup,http://www.themarksman.net/,Indoor,"47.156308,-122.355772",47.156308,-122.355772
+,Tieton Gun Club (Tieton Rifle Club),1640 Clemans Drive,Naches,,,"46.7406274,-120.712608",46.7406274,-120.712608
+,"Tri-Cities Shooting Association, aka Rattlesnake Mountain shooting facility",98204 N SR 225,Richland,http://www.tcsa.info/,Outdoor,"46.3781992,-119.4429432",46.3781992,-119.4429432
+,TriCity Metallic Silhouette Association,Kahlotus Highway,Pasco,http://tcmsa.org/,Outdoor,"46.2395793,-119.1005657",46.2395793,-119.1005657
+,Tumwater Rifle Team,6513 Henderson Blvd SE,Olympia,http://www.tumwater.k12.wa.us/Domain/990,,"46.9905211,-122.8857106",46.9905211,-122.8857106
+,Twin Cities Sportsman Club,26933 64th Ave N.,Stanwood,,,"48.241611,-122.316315",48.241611,-122.316315
+,Upper Nisqually Sportsmens Club,39919 129th Ave.,Eatonville,http://www.uppernisquallysportsmanclub.com/,Outdoor,"46.89537199999999,-122.258917",46.89537199999999,-122.258917
+,Vancouver Rifle & Pistol Range,12211 NE 76th Street,Vancouver,http://vancouverrifle.com/,Indoor,"45.6772272,-122.5471095",45.6772272,-122.5471095
+,Vancouver Trap and Gun Club,11100 NE 76th St.,Vancouver,http://www.vancouvertrapandgunclub.com/index2.html,Outdoor,"45.6779532,-122.5588712",45.6779532,-122.5588712
+,Vashon Island Sportsmen's Club,19724 Singer Road SW,Vashon Island,http://www.vashonsportsmensclub.com/,Outdoor,"47.4291239,-122.4783256",47.4291239,-122.4783256
+wades,Wade's Eastside Gun Shop (Bellevue Indoor Range),13570 Bel-Red Road,Bellevue,http://www.wadesguns.com,Indoor,"47.623526,-122.1596636",47.623526,-122.1596636
+,Waitsburg Gun Club,Bramlet Lane,Waitsburg,http://waitsburggunclub.com/,Outdoor,"46.2704176,-118.1532861",46.2704176,-118.1532861
+,Walla Walla Gun Club,Waitsburg Road,Walla Walla,http://wallawallagunclub.com/,Outdoor,"46.1527768,-118.3152143",46.1527768,-118.3152143
+,Washington State Criminal Justice Training Commission,19010 1st Avenue South,Burien,https://fortress.wa.gov/cjtc/www/index.php?option=com_content&view=frontpage&Itemid=1,Indoor,"47.4329465,-122.332663",47.4329465,-122.332663
+,Washington State Patrol Training Academy,631 W. Dayton Airport Road,Shelton,http://www.wsp.wa.gov/employment/academy.htm,Outdoor,"47.250367,-123.159821",47.250367,-123.159821
+,Wenatchee Gun Club,Highway 97,Wenatchee,https://www.facebook.com/Wenatcheegunclub/timeline,Outdoor,"47.5634664,-120.267104",47.5634664,-120.267104
+,Wenatchee Rifle and Revolver Club,2800 #2 Canyon Rd.,Wenatchee,http://www.wenrrc.org/index.php?p=1_17_About-our-Club,Both,"47.46787699999999,-120.426902",47.46787699999999,-120.426902
+wca,West Coast Armory (Bellevue Gun Club),13216 SE 32nd St.,Bellevue,http://www.westcoastarmory.com/,Both,"47.582405,-122.163661",47.582405,-122.163661
+,West End Sportsmens Club,243 Sportsmen Road,Forks,,Outdoor,"47.939812,-124.377482",47.939812,-124.377482
+,Whalestooth Trading Post,131 Bond Mill Road,Olga,,Outdoor,"48.6480279,-122.778704",48.6480279,-122.778704
+,Willapa Harbor Gun Club,37 Butte Creek Road,Raymond,http://whgunclub.org/,Both,"46.71451,-123.739495",46.71451,-123.739495
+,Wolverton Mountain Gun Club,243 Williams Road,Ariel,http://www.wmgc.net/,Outdoor,"45.9907154,-122.3525262",45.9907154,-122.3525262
+,Yakima Valley Sportsman's Association,411 E. Pomona Rd.,Yakima,http://www.yvsa.net/,Both,"46.6901065,-120.4784769",46.6901065,-120.4784769

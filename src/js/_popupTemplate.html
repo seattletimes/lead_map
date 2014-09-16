@@ -1,0 +1,13 @@
+<h1>{{building.range}} - {{building.city}}, WA</h1>
+<p>
+  {{#inspections}}
+  {{#multiple}} As: {{name}}{{/multiple}}
+  <ul>
+    <li> Inspections: {{inspections}}
+    <li> Violations: {{violations}} ({{leadRelated}} lead-related)
+    <li> Penalty: {{initialPenalty}} {{#reduced}}(reduced to {{currentPenalty}}){{/reduced}}
+  </ul>
+  {{/inspections}}
+  {{^inspections}}
+  Never inspected by OSHA.
+  {{/inspections}}

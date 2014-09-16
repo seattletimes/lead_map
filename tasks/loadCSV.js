@@ -32,7 +32,13 @@ module.exports = function(grunt) {
         if (isKeyed) {
           var key = line.key;
           delete line.key;
-          parsed[key] = line;
+          //if multiple lines per key, create an array
+          if (parsed[key]) {
+            parsed[key] = [parsed[key]];
+            parsed[key].push(line);
+          } else {
+            parsed[key] = line;
+          }
         } else {
           parsed.push(line);
         }

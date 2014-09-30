@@ -12,8 +12,6 @@ require([
   //hack hack hack
   child.id = "lead-map";
 
-  console.log(window.location);
-
   ich.addTemplate("popup", template);
 
   var waBounds = [
@@ -23,7 +21,7 @@ require([
   
   var map = L.map("map", {
     maxBounds: waBounds,
-    minZoom: 6
+    minZoom: 5
   });
   window.map = map;
 

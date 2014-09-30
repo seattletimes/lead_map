@@ -43,6 +43,11 @@ require([
 
   var popup = L.popup();
 
+  window.ranges.sort(function(a, b) {
+    var inspectable = ~~a.inspectable - ~~b.inspectable;
+    return inspectable || (~~a.osha - ~~b.osha);
+  });
+
   window.ranges.forEach(function(range) {
     var inspected = window.inspections[range.osha] || [];
     if (inspected && !(inspected instanceof Array)) {
@@ -53,9 +58,16 @@ require([
         inspection.reduced = true;
       }
     });
+    var className = "range";
+    if (range.inspectable) {
+      className += " inspectable";
+      if (range.osha in window.inspections) {
+        className += " inspected";
+      }
+    }
     var marker = new L.Marker([range.lat, range.lng], {
       icon: new L.DivIcon({
-        className: range.osha in window.inspections ? "range inspected" : "range",
+        className: className,
         iconSize: [10, 10]
       }),
       zIndexOffset: inspected ? 1000 : undefined
@@ -63,6 +75,7 @@ require([
     marker.addTo(map);
     marker.data = {
       building: range,
+      inspectable: !!range.inspectable,
       inspections: inspected,
       multiple: inspected.length > 1
     };

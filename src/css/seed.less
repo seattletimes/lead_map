@@ -27,14 +27,18 @@ body {
   left: 0;
 
   .range {
-    width: 20px;
-    height: 20px;
-    background: #FDCA49;
-    opacity: .75;
+    background: #3B5057;
+    //opacity: .75;
     border-radius: 100%;
 
-    &.inspected {
-      background: #FC580C;
+    &.inspectable {
+      background: white;
+      border: 3px solid #AC75AD;
+
+      &.inspected {
+        //background: #CA8D74;
+        background: black;
+      }
     }
   }
 

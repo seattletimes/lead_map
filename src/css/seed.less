@@ -14,7 +14,7 @@ body {
 }
 
 .map-container {
-  padding-bottom: 57%;
+  padding-bottom: 75%;
   position: relative;
   overflow: hidden;
 }
@@ -44,6 +44,17 @@ body {
 
   .leaflet-popup {
 
+    .badge-of-dishonor {
+      background: #3B5057;
+      color: white;
+      text-transform: uppercase;
+      display: block;
+      border-radius: 4px;
+      padding: 4px;
+      font-weight: bold;
+      text-align: center;
+    }
+
     h1 {
       font-size: 16px;
       margin: 0;
@@ -51,14 +62,40 @@ body {
 
     .city {
       text-transform: uppercase;
+      color: #888;
     }
 
     p {
-      margin: 4px 0;
+      margin: 0;
     }
 
-    ul {
+    label.name {
+      display: block;
+      font-weight: bold;
+    }
+
+    ul.inspections {
       margin: 0;
+      margin-bottom: 1em;
+      padding-left: 1em;
+      list-style-type: disc;
+    }
+
+    ul.meta {
+      padding: 0;
+      margin: 8px 0;
+
+      li {
+        padding: 0;
+        display: inline;
+        &::before {
+          content: " | ";
+        }
+
+        &:first-child::before {
+          content: "";
+        }
+      }
     }
   }
 }

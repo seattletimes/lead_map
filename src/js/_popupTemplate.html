@@ -1,17 +1,20 @@
-<p class="city">{{building.city}}, WA</p>
+<p class="city">{{building.city}}</p>
 <h1>{{building.range}}</h1>
-<p>
+<ul class="meta">
+  {{#building.website}}<li> <a href="{{building.website}}">Website</a>{{/building.website}}
+  {{#building.type}}<li> {{building.type}} range{{/building.type}}
+</ul>
   {{#inspectable}}
     {{#inspections}}
-    {{#multiple}} As: {{name}}{{/multiple}}
-    <ul>
+    {{#multiple}}<label class="name">As: {{name}}</label>{{/multiple}}
+    <ul class="inspections">
       <li> Inspections: {{inspections}}
       <li> Violations: {{violations}} ({{leadRelated}} lead-related)
       <li> Penalty: {{initialPenalty}} {{#reduced}}(reduced to {{currentPenalty}}){{/reduced}}
     </ul>
     {{/inspections}}
     {{^inspections}}
-    Never inspected by L&amp;I.
+    <span class="badge-of-dishonor">Never inspected</span>
     {{/inspections}}
   {{/inspectable}}
   {{^inspectable}}

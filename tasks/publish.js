@@ -82,8 +82,8 @@ module.exports = function(grunt) {
               obj.Body = zipped;
               var after = zipped.length;
               obj.ContentEncoding = "gzip";
-              console.log("Uploading gzipped %s - %s %s %s (%s)",
-                upload.path,
+              console.log("Uploading %s - %s %s %s (%s)",
+                obj.Key,
 
                 chalk.cyan(formatSize(before)),
                 chalk.yellow("=>"),

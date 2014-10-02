@@ -3,3 +3,4 @@ build
 temp
 auth.json
 src/js/lib/*/
+.DS_Store

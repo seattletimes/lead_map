@@ -1,3 +1,4 @@
+/* global ich */
 require([
   "pym",
   "leaflet",
@@ -25,6 +26,8 @@ require([
     [52, -127],
     [43, -114]
   ];
+
+  var seattle = [47.72, -122.45]
   
   var map = L.map("map", {
     minZoom: 5,
@@ -43,12 +46,9 @@ require([
 
   tiles.addTo(map);
 
-  map.fitBounds(waBounds);
+  // map.fitBounds(waBounds);
+  map.setView(seattle, isMobile ? 8 : 7);
   map.setMaxBounds(limits);
-
-  window.addEventListener("resize", function() {
-    map.fitBounds(waBounds)
-  });
 
   var popup = L.popup({
     //maxWidth: 200
@@ -85,7 +85,7 @@ require([
     var marker = new L.Marker([range.lat, range.lng], {
       icon: new L.DivIcon({
         className: className,
-        iconSize: isMobile? [20, 20] : [13, 13]
+        iconSize: isMobile? [16, 16] : [13, 13]
       }),
       zIndexOffset: z
     });

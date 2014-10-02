@@ -36,7 +36,7 @@ var formatSize = function(input) {
     return Math.round(input / 1024) + "KB";
   }
   return input + "B";
-}
+};
 
 module.exports = function(grunt) {
 

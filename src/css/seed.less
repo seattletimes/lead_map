@@ -27,17 +27,18 @@ body {
   left: 0;
 
   .range {
-    background: #3B5057;
+    background: rgb(138, 138, 138);
     //opacity: .75;
     border-radius: 100%;
 
+    @rust: #D75646;
+
     &.inspectable {
       background: white;
-      border: 3px solid #AC75AD;
+      border: 3px solid @rust;
 
       &.inspected {
-        //background: #CA8D74;
-        background: black;
+        background: @rust;
       }
     }
   }

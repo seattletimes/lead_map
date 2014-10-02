@@ -28,7 +28,8 @@ require([
   
   var map = L.map("map", {
     minZoom: 5,
-    zoomControl: isMobile ? false : true
+    zoomControl: isMobile ? false : true,
+    scrollWheelZoom: false
   });
   window.map = map;
 

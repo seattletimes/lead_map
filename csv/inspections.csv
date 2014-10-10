@@ -1,12 +1,12 @@
 key,name,location,inspections,violations,leadRelated,initialPenalty,currentPenalty
-bulls,Bulls Eye Indoor Range,Tacoma,1,11,6,"$1,200",$900
-champion,Champion Arms Indoor Shooting,Kent,4,37,32,"$64,840","$64,840"
+bulls,Bull's Eye Indoor Shooting Range,Tacoma,1,11,6,"$1,200",$900
+champion,Champion Arms,Kent,4,44,39,"$64,840","$64,840"
 issaquah,Issaquah Sportsmen's Club,Issaquah,1,3,3,$500,$500
-norpoint,Norpoint Shooting & Tactical,Arlington,2,9,3,$600,$600
-norpoint,Firearms Academy Of Hawaii,Arlington,1,18,15,"$6,500","$2,350"
+norpoint,Norpoint Shooting Center,Arlington,2,9,3,$600,$600
+norpoint,Firearms Academy of Hawaii,Arlington,1,16,13,"$5,500","$2,350"
 renton,Renton Fish & Game Club,Renton,1,1,0,$0,$0
-spaa,Seattle Police Athletic Association,Tukwila,1,3,1,$0,$0
-sharp,Sharp Shooting Indoor Range,Spokane,3,4,4,$700,$500
+spaa,Seattle Police and Athletic Association,Tukwila,1,3,1,$0,$0
+sharp,Sharp Shooting Indoor Range & Gun Shop,Spokane,3,4,4,$700,$500
 marksman,The Marksman,Puyallup,1,2,2,$0,$0
-wades,Wade's Eastside Gun Shop (Bellevue Indoor Range),Bellevue,3,39,28,"$35,930","$23,570"
-wca,West Coast Armory (Bellevue Gun Club),Bellevue,1,3,3,$0,$0
+wades,Wade's Eastside Guns/Bellevue Indoor Range ,Bellevue,3,34,22,"$29,130","$23,570"
+wca,West Coast Armory,Bellevue,1,3,3,$0,$0

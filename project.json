@@ -5,8 +5,8 @@
       "path": "prejudicial-transcendency/map"
     },
     "live": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects.seattletimes.com",
+      "path": "2014/loaded-with-lead/map"
     }
   },
   "title": "",

@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <%= t.include("partials/_adHead.html") %>
   </head>
   <body>
 
@@ -19,6 +18,5 @@ window.inspections = <%= JSON.stringify(csv.inspections) %>;
     </script>
 
     <script src="app.js"></script>
-    <%= t.include("partials/_adFoot.html") %>
   </body>
 </html>
